@@ -21,8 +21,8 @@ This project consists of two main parts:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Arpreetkhare/user-points-backend.git
-   cd user-points-backend
+   git clone https://github.com/Arpreetkhare/leaderboard-system.git
+   cd LEADERBOARD-PROJECT/leaderboard-backend
 
 2. **Install Dependencies:**  
    ```bash
@@ -39,6 +39,8 @@ This project consists of two main parts:
 
 
 ## Frontend Setup (React)
+```bash
+cd leaderboard-frontend
 
 1. **Install Dependencies:**
    ```bash
