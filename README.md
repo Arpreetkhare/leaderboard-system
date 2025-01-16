@@ -39,18 +39,22 @@ This project consists of two main parts:
 
 
 ## Frontend Setup (React)
-```bash
-cd leaderboard-frontend
 
-1. **Install Dependencies:**
+### Installation
+
+1. **got to frontend dir**
+   ```bash
+   cd leaderboard-frontend
+
+2. **Install Dependencies:**
    ```bash
    npm install
 
-2. **Start the Development Server:**
+3. **Start the Development Server:**
    ```bash
     npm start
 
-3. **local host**
+4. **local host**
    ```bash
    http://localhost:3000
 
